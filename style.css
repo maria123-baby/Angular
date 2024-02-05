@@ -22,13 +22,11 @@ img{
     text-transform: uppercase;
     padding-inline-start: 40%;
     justify-content: flex-start;
-    
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
     color: blue;
 
 }
-.container{
-    b
-}
+
 
 
 
