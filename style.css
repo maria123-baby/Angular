@@ -1,0 +1,35 @@
+body{
+    background-image:url(https://images.rawpixel.com/image_800/cHJpdmF0ZS9sci9pbWFnZXMvd2Vic2l0ZS8yMDIzLTA5L3Jhd3BpeGVsX29mZmljZV8zM193YWxscGFwZXJfb2ZfY2xvdWRzX2dyYWRpZW50X2dsaXR0ZXJfb25fc2ltcF8zNzFmOGU1Zi1jZTM2LTRjNjctOWMyZC1lMWZkZTI1YmEwM2ZfMS5qcGc.jpg) ;
+}
+h1,h2{
+    text-align: center;
+    color:white;
+    background-color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+img{
+    display: block;
+    margin-inline-start: 40%;
+    width:250px;
+    height:250px;
+    padding:20px;
+    border-radius: 50%;
+    
+}
+.s1{
+    display: flex;
+    flex-direction: column;
+    text-transform: uppercase;
+    padding-inline-start: 40%;
+    justify-content: flex-start;
+    
+    color: blue;
+
+}
+.container{
+    b
+}
+
+
+
+
